@@ -172,6 +172,10 @@ body {
     background: #080481;
 }
 
+.container .card .contentBx .color span:nth-child(5) {
+    background: #9d0893;
+}
+
 .container .card .contentBx a {
     display: inline-block;
     padding: 10px 20px;
